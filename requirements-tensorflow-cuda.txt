@@ -1,5 +1,5 @@
 # Tensorflow with cuda support.
-tensorflow[and-cuda]~=2.18.0
+tensorflow[and-cuda]~=2.20.0
 tf2onnx
 
 # Torch cpu-only version (needed for testing).
